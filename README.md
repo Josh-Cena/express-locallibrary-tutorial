@@ -12,6 +12,10 @@ For more information see the associated [MDN tutorial home page](https://develop
 
 > **Note** The [auth branch](/../../tree/auth) in this repository implements an _unsupported_ and _undocumented_ version of the library with User Authentication and Authorization. This may be a useful starting point for some users.
 
+## Starter template
+
+To follow the tutorial from the beginning, copy the [starter folder](starter/README.md) into a separate project directory. It contains a runnable Express skeleton with no database setup required. The application in the repository root is the completed tutorial.
+
 ## Quick Start
 
 To get this project up and running locally on your computer:
